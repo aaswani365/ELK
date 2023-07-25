@@ -1,0 +1,7 @@
+region = "us-east-2"
+vpc_cidr="10.20.0.0/16"
+public_subnet_cidr="10.20.1.0/24"
+public_subnet_az="us-east-2b"
+jenkins_instance_type="t2.medium"
+jenkins_volume_size="8"
+jenkins_volume_type="gp2"
